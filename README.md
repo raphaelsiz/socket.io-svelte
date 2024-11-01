@@ -1,0 +1,2 @@
+# Socket.io with Svelte
+Followed [a tutoral](https://dev.to/theether0/sveltekit-with-socketio-and-nodejs-285h) that I find myself needing often, so shortening future work times by making a clonable repo!
