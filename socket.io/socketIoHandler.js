@@ -13,6 +13,11 @@ export default function injectSocketIO(server) {
                 message: message,
                 time: new Date().toLocaleString()
             })
+            console.log({
+                from: username,
+                message: message,
+                time: new Date().toLocaleString()
+            })
         })
     })
 }
